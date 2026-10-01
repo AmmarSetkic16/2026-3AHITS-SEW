@@ -6,6 +6,8 @@ class Program
 {
     private static void Main(string[] args)
     {
-            Console.WriteLine("Hallo aus C#!");
+           {
+            
+           } Console.WriteLine("Hallo aus C#!");
     }
 }
